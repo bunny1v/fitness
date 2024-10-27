@@ -1,0 +1,1373 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "bodyPart": "Abs",
+      "workouts": [
+        {
+          "Workout Name": "Crunches",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Abs"],
+          "Secondary Group": ["Hip Flexors"]
+        },
+        {
+          "Workout Name": "Leg Raises",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Abs"],
+          "Secondary Group": ["Hip Flexors"]
+        },
+        {
+          "Workout Name": "Russian Twists",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Obliques"],
+          "Secondary Group": ["Core"]
+        },
+        {
+          "Workout Name": "Bicycle Crunches",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Abs"],
+          "Secondary Group": ["Obliques"]
+        },
+        {
+          "Workout Name": "V-Ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Abs"],
+          "Secondary Group": ["Hip Flexors"]
+        }
+      ]
+    },
+    {
+      "bodyPart": "Back",
+      "workouts": [
+        {
+          "Workout Name": "Lat Pulldowns",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Bent-Over Rows",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps", "Rhomboids"]
+        },
+        {
+          "Workout Name": "Dumbbell Rows",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps", "Rhomboids"]
+        },
+        {
+          "Workout Name": "Seated Cable Rows",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps", "Rhomboids"]
+        },
+        {
+          "Workout Name": "Lat Pulldowns",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Bent-Over Rows",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps", "Rhomboids"]
+        },
+        {
+          "Workout Name": "Dumbbell Rows",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps", "Rhomboids"]
+        },
+        {
+          "Workout Name": "Seated Cable Rows",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps", "Rhomboids"]
+        },
+        {
+          "Workout Name": "Inverted Rows",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "One-Arm Dumbbell Rows",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Hyperextensions",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Lower Back"],
+          "Secondary Group": ["Glutes"]
+        },
+        {
+          "Workout Name": "Supermans",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Lower Back"],
+          "Secondary Group": ["Glutes", "Hamstrings"]
+        },
+        {
+          "Workout Name": "Chest-Supported Rows",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Lat Pulldowns with Resistance Bands",
+          "Equipment": ["Resistance Bands"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Bent-Over Rows with Resistance Bands",
+          "Equipment": ["Resistance Bands"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps", "Rhomboids"]
+        },
+        {
+          "Workout Name": "Dumbbell Rows with Resistance Bands",
+          "Equipment": ["Resistance Bands"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps", "Rhomboids"]
+        },
+        {
+          "Workout Name": "Seated Cable Rows with Resistance Bands",
+          "Equipment": ["Cable Machine", "Resistance Bands"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps", "Rhomboids"]
+        },
+        {
+          "Workout Name": "Pull-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Pull-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Pull-ups with Weight",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Pull-ups with Narrow Grip",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Pull-ups with Wide Grip",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Chin-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Pull-ups with Resistance Bands",
+          "Equipment": ["Resistance Bands"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Back"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Kettlebell Swings",
+          "Equipment": ["Kettlebell"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Hamstrings", "Glutes"],
+          "Secondary Group": ["Core"]
+        },
+        {
+          "Workout Name": "Deadlifts",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Hamstrings", "Glutes"],
+          "Secondary Group": ["Lower Back", "Quadriceps"]
+        },
+        {
+          "Workout Name": "Barbell Good Mornings",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Hamstrings"],
+          "Secondary Group": ["Lower Back"]
+        },
+        {
+          "Workout Name": "Face Pulls",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Posterior Deltoids", "Trapezius"],
+          "Secondary Group": ["Rhomboids"]
+        },
+        {
+          "Workout Name": "Reverse Flyes",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Posterior Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        }
+      ]
+    },
+    {
+      "bodyPart": "Biceps",
+      "workouts": [
+        {
+          "Workout Name": "Barbell Curls",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Dumbbell Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Hammer Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps", "Brachialis"],
+          "Secondary Group": [""]
+        },
+        {
+          "Workout Name": "Concentration Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Preacher Curls",
+          "Equipment": ["Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Cable Bicep Curls",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Barbell Curls",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Dumbbell Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Hammer Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps", "Brachialis"],
+          "Secondary Group": [""]
+        },
+        {
+          "Workout Name": "Concentration Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Preacher Curls",
+          "Equipment": ["Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Cable Bicep Curls",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Spider Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Zottman Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Reverse Curls",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Brachialis"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Dumbbell Alternating Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Incline Dumbbell Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Decline Dumbbell Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Bicep Extensions",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Reverse Grip Bicep Curls",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Brachialis"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Bicep Curls with a Rope",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Bicep Curls with a V-Bar",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Bicep Curls with a Straight Bar",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Biceps"],
+          "Secondary Group": ["Brachialis"]
+        }
+      ]
+    },
+    {
+      "bodyPart": "Chest",
+      "workouts": [
+        {
+          "Workout Name": "Barbell Bench Press",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps", "Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Incline Dumbbell Press",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Decline Dumbbell Press",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Cable Chest Flyes",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Barbell Bench Press",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps", "Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Incline Dumbbell Press",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Decline Dumbbell Press",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Cable Chest Flyes",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Diamond Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Incline Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Decline Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Sledgehammer Chest Press",
+          "Equipment": ["Sledgehammer"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps", "Shoulders"]
+        },
+        {
+          "Workout Name": "Medicine Ball Chest Pass",
+          "Equipment": ["Medicine Ball"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Core"]
+        },
+        {
+          "Workout Name": "Resistance Band Chest Press",
+          "Equipment": ["Resistance Band"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps", "Shoulders"]
+        },
+        {
+          "Workout Name": "Plyometric Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps", "Shoulders"]
+        },
+        {
+          "Workout Name": "Dumbbell Pullover",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Latissimus Dorsi"]
+        },
+        {
+          "Workout Name": "Kettlebell Chest Press",
+          "Equipment": ["Kettlebell"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps", "Shoulders"]
+        },
+        {
+          "Workout Name": "Floor Press",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps", "Shoulders"]
+        },
+        {
+          "Workout Name": "Plate Push-ups",
+          "Equipment": ["Plates"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Dumbbell Slant Bench Press",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Chest"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Cable Pushdown",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Chest"]
+        }
+      ]
+    },
+    {
+      "bodyPart": "Core",
+      "workouts": [
+        {
+          "Workout Name": "Plank",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Core"],
+          "Secondary Group": ["Shoulders", "Triceps"]
+        },
+        {
+          "Workout Name": "Side Plank",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Obliques"],
+          "Secondary Group": ["Core"]
+        },
+        {
+          "Workout Name": "Bird Dog",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Core"],
+          "Secondary Group": ["Glutes", "Hamstrings"]
+        }
+      ]
+    },
+    {
+      "bodyPart": "Forearms",
+      "workouts": [
+        {
+          "Workout Name": "Wrist Curls",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Wrist Flexors"],
+          "Secondary Group": ["Brachialis", "Biceps"]
+        },
+        {
+          "Workout Name": "Reverse Wrist Curls",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Wrist Extensors"],
+          "Secondary Group": ["Brachialis", "Triceps"]
+        },
+        {
+          "Workout Name": "Dumbbell Wrist Flexions",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Wrist Flexors"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Dumbbell Wrist Extensions",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Wrist Extensors"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Wrist Flexion with Resistance Band",
+          "Equipment": ["Resistance Band"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Wrist Flexors"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Wrist Extension with Resistance Band",
+          "Equipment": ["Resistance Band"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Wrist Extensors"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Towel Pull-ups",
+          "Equipment": ["Towel"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Forearms", "Grip Strength"],
+          "Secondary Group": ["Back", "Biceps"]
+        },
+        {
+          "Workout Name": "Fingertip Pull-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Forearms", "Grip Strength"],
+          "Secondary Group": ["Back", "Biceps"]
+        },
+        {
+          "Workout Name": "Hammer Curls (with focus on forearm grip)",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Forearms", "Biceps"],
+          "Secondary Group": ["Brachialis"]
+        },
+        {
+          "Workout Name": "Reverse Grip Barbell Curls",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Brachialis"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Reverse Grip Dumbbell Curls",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Brachialis"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Forearm Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Forearms"],
+          "Secondary Group": ["Chest", "Triceps"]
+        },
+        {
+          "Workout Name": "Farmer's Walks",
+          "Equipment": ["Dumbbells", "Kettlebells"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Forearms", "Core"],
+          "Secondary Group": ["Grip Strength", "Shoulders"]
+        },
+        {
+          "Workout Name": "Forearm Planks",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Forearms", "Core"],
+          "Secondary Group": ["Shoulders"]
+        },
+        {
+          "Workout Name": "Towel Hangs",
+          "Equipment": ["Towel"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Forearms", "Grip Strength"],
+          "Secondary Group": ["Shoulders", "Back"]
+        },
+        {
+          "Workout Name": "Fingertip Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Forearms", "Grip Strength"],
+          "Secondary Group": ["Chest", "Triceps"]
+        },
+        {
+          "Workout Name": "Plate Pinches",
+          "Equipment": ["Plates"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Forearms", "Grip Strength"],
+          "Secondary Group": ["Hands"]
+        },
+        {
+          "Workout Name": "Wrist Roller",
+          "Equipment": ["Wrist Roller"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Forearms", "Grip Strength"],
+          "Secondary Group": ["Wrist Extensors"]
+        }
+      ]
+    },
+    {
+      "bodyPart": "Legs",
+      "workouts": [
+        {
+          "Workout Name": "Squats",
+          "Equipment": ["Barbell", "Dumbbells", "Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Hamstrings", "Calves"]
+        },
+        {
+          "Workout Name": "Lunges",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Hamstrings"]
+        },
+        {
+          "Workout Name": "Leg Press",
+          "Equipment": ["Machine"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Hamstrings"]
+        },
+        {
+          "Workout Name": "Hamstring Curls",
+          "Equipment": ["Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Hamstrings"],
+          "Secondary Group": ["Glutes"]
+        },
+        {
+          "Workout Name": "Calf Raises",
+          "Equipment": ["Bodyweight", "Machine"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Calves"],
+          "Secondary Group": ["Achilles Tendon"]
+        },
+        {
+          "Workout Name": "Squats",
+          "Equipment": ["Barbell", "Dumbbells", "Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Hamstrings", "Calves"]
+        },
+        {
+          "Workout Name": "Lunges",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Hamstrings"]
+        },
+        {
+          "Workout Name": "Leg Press",
+          "Equipment": ["Machine"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Hamstrings"]
+        },
+        {
+          "Workout Name": "Hamstring Curls",
+          "Equipment": ["Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Hamstrings"],
+          "Secondary Group": ["Glutes"]
+        },
+        {
+          "Workout Name": "Calf Raises",
+          "Equipment": ["Bodyweight", "Machine"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Calves"],
+          "Secondary Group": ["Achilles Tendon"]
+        },
+        {
+          "Workout Name": "Step-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Hamstrings"]
+        },
+        {
+          "Workout Name": "Bulgarian Split Squats",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Hamstrings"]
+        },
+        {
+          "Workout Name": "Goblet Squats",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Core"]
+        },
+        {
+          "Workout Name": "Pistol Squats",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Core", "Balance"]
+        },
+        {
+          "Workout Name": "Sumo Squats",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Inner Thighs"],
+          "Secondary Group": ["Glutes"]
+        },
+        {
+          "Workout Name": "Box Jumps",
+          "Equipment": ["Platform"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Calves", "Plyometrics"]
+        },
+        {
+          "Workout Name": "Jump Squats",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Calves", "Plyometrics"]
+        },
+        {
+          "Workout Name": "Frog Jumps",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Adductors", "Plyometrics"]
+        },
+        {
+          "Workout Name": "Hack Squats",
+          "Equipment": ["Machine"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Hamstrings"]
+        },
+        {
+          "Workout Name": "Leg Extensions",
+          "Equipment": ["Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Quadriceps"],
+          "Secondary Group": ["Patellar Tendon"]
+        },
+        {
+          "Workout Name": "Leg Curls",
+          "Equipment": ["Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Hamstrings"],
+          "Secondary Group": ["Glutes"]
+        },
+        {
+          "Workout Name": "Donkey Calf Raises",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Calves"],
+          "Secondary Group": ["Achilles Tendon"]
+        },
+        {
+          "Workout Name": "Seated Calf Raises",
+          "Equipment": ["Machine"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Calves"],
+          "Secondary Group": ["Achilles Tendon"]
+        },
+        {
+          "Workout Name": "Standing Calf Raises",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Calves"],
+          "Secondary Group": ["Achilles Tendon"]
+        },
+        {
+          "Workout Name": "Side Lunges",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Adductors"]
+        },
+        {
+          "Workout Name": "Zercher Squats",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Core", "Grip Strength"]
+        },
+        {
+          "Workout Name": "Kettlebell Goblet Squats",
+          "Equipment": ["Kettlebell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Quadriceps", "Glutes"],
+          "Secondary Group": ["Core"]
+        },
+        {
+          "Workout Name": "Deadlifts",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Hamstrings", "Glutes"],
+          "Secondary Group": ["Lower Back", "Quadriceps"]
+        },
+        {
+          "Workout Name": "Deadlifts",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Hamstrings", "Glutes"],
+          "Secondary Group": ["Lower Back", "Quadriceps"]
+        },
+        {
+          "Workout Name": "Sumo Deadlifts",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Hamstrings", "Glutes"],
+          "Secondary Group": ["Lower Back", "Quadriceps"]
+        },
+        {
+          "Workout Name": "Kettlebell Swings",
+          "Equipment": ["Kettlebell"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Hamstrings", "Glutes"],
+          "Secondary Group": ["Core"]
+        },
+        {
+          "Workout Name": "Barbell Hip Thrusts",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Glutes"],
+          "Secondary Group": ["Hamstrings", "Quadriceps"]
+        },
+        {
+          "Workout Name": "Dumbbell Hip Thrusts",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Glutes"],
+          "Secondary Group": ["Hamstrings", "Quadriceps"]
+        },
+        {
+          "Workout Name": "Glute Bridges",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Glutes"],
+          "Secondary Group": ["Hamstrings"]
+        },
+        {
+          "Workout Name": "Clamshells",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Glutes"],
+          "Secondary Group": ["Hip Abductors"]
+        },
+        {
+          "Workout Name": "Kettlebell Clean and Press",
+          "Equipment": ["Kettlebell"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Quadriceps", "Deltoids"],
+          "Secondary Group": ["Hamstrings", "Core"]
+        }
+      ]
+    },
+    {
+      "bodyPart": "Shoulders",
+      "workouts": [
+        {
+          "Workout Name": "Overhead Press",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Deltoids"],
+          "Secondary Group": ["Triceps", "Upper Chest"]
+        },
+        {
+          "Workout Name": "Lateral Raises",
+          "Equipment": ["Dumbbells", "Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Side Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Front Raises",
+          "Equipment": ["Dumbbells", "Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Anterior Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Arnold Press",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Deltoids"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Dumbbell Shrugs",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Trapezius"],
+          "Secondary Group": ["Upper Back"]
+        },
+        {
+          "Workout Name": "Overhead Press",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Deltoids"],
+          "Secondary Group": ["Triceps", "Upper Chest"]
+        },
+        {
+          "Workout Name": "Lateral Raises",
+          "Equipment": ["Dumbbells", "Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Side Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Front Raises",
+          "Equipment": ["Dumbbells", "Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Anterior Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Dumbbell Shrugs",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Trapezius"],
+          "Secondary Group": ["Upper Back"]
+        },
+        {
+          "Workout Name": "Arnold Press",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Deltoids"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Seated Dumbbell Press",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Deltoids"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Push Press",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Deltoids"],
+          "Secondary Group": ["Triceps", "Legs"]
+        },
+        {
+          "Workout Name": "Behind-the-Neck Press",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Deltoids"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Y Raises",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Posterior Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "T Raises",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Posterior Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "W Raises",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Anterior Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Cable Lateral Raises",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Side Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Cable Front Raises",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Anterior Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Plate Raises",
+          "Equipment": ["Plates"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Side Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Dumbbell Side Raises",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Side Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Dumbbell Front Raises",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Anterior Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Shoulder Press Machine",
+          "Equipment": ["Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Deltoids"],
+          "Secondary Group": ["Triceps"]
+        },
+        {
+          "Workout Name": "Lateral Raise Machine",
+          "Equipment": ["Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Side Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Front Raise Machine",
+          "Equipment": ["Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Anterior Deltoids"],
+          "Secondary Group": ["Trapezius"]
+        },
+        {
+          "Workout Name": "Face Pulls",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Posterior Deltoids", "Trapezius"],
+          "Secondary Group": ["Rhomboids"]
+        },
+        {
+          "Workout Name": "Face Pulls",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Posterior Deltoids", "Trapezius"],
+          "Secondary Group": ["Rhomboids"]
+        },
+        {
+          "Workout Name": "Barbell Upright Rows",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Trapezius", "Deltoids"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Dumbbell Upright Rows",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Trapezius", "Deltoids"],
+          "Secondary Group": ["Biceps"]
+        },
+        {
+          "Workout Name": "Pike Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Shoulders"],
+          "Secondary Group": ["Chest", "Triceps"]
+        },
+        {
+          "Workout Name": "Handstand Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Shoulders"],
+          "Secondary Group": ["Chest", "Triceps"]
+        }
+      ]
+    },
+    {
+      "bodyPart": "Triceps",
+      "workouts": [
+        {
+          "Workout Name": "Overhead Triceps Extensions",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Skull Crushers",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Triceps Pushdowns",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Latissimus Dorsi"]
+        },
+        {
+          "Workout Name": "Triceps Dips",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Chest"]
+        },
+        {
+          "Workout Name": "Overhead Triceps Extensions",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Skull Crushers",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Triceps Pushdowns",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Latissimus Dorsi"]
+        },
+        {
+          "Workout Name": "Triceps Dips",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Chest"]
+        },
+        {
+          "Workout Name": "Cable Triceps Pushdowns",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Latissimus Dorsi"]
+        },
+        {
+          "Workout Name": "French Press",
+          "Equipment": ["Barbell", "Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Lying Triceps Extensions",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Single-Arm Triceps Extensions",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Triceps Extensions on a Decline Bench",
+          "Equipment": ["Dumbbells"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Overhead Triceps Extensions with a Rope",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Anterior Deltoids"]
+        },
+        {
+          "Workout Name": "Triceps Pushdowns with a Rope",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Latissimus Dorsi"]
+        },
+        {
+          "Workout Name": "Triceps Pushdowns with a V-Bar",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Latissimus Dorsi"]
+        },
+        {
+          "Workout Name": "Triceps Pushdowns with a Straight Bar",
+          "Equipment": ["Cable Machine"],
+          "Chain Type": "Open Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Latissimus Dorsi"]
+        },
+        {
+          "Workout Name": "Diamond Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Chest"]
+        },
+        {
+          "Workout Name": "Diamond Push-ups",
+          "Equipment": ["Bodyweight"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Chest"]
+        },
+        {
+          "Workout Name": "Close Grip Bench Press",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Chest"]
+        },
+        {
+          "Workout Name": "Incline Close Grip Bench Press",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Chest"]
+        },
+        {
+          "Workout Name": "Decline Close Grip Bench Press",
+          "Equipment": ["Barbell"],
+          "Chain Type": "Closed Chain",
+          "Primary Group": ["Triceps"],
+          "Secondary Group": ["Chest"]
+        }
+      ]
+    }
+  ]
+}
